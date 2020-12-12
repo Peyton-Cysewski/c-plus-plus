@@ -6,7 +6,7 @@ This is my walkthrough of the C++ Progamming Language as guided my it's creator,
 <br>
 
 ## Guide
-Consider this code base a summary of the full book, or at least of the sections with immediate information (starting from chapter 6). Ideally I will at least have something to say for each of the many subsections, but how much will vary based on the information the author provides and how intuitive I think it is. I will try to make the code base read like a page of notes with comments places frequently. Each `.cpp` file will reference a full chapter with commented-out code inside the main funtions that can be run to demonstrate the functionality of the language in action, specific to each section and subsection at hand.
+Consider this code base a summary of the full book, or at least of the sections with immediate information (starting from chapter 6). I will provide page numbers for reference, but even though not every word that is written is contained in quotations, I want to make it very clear that this material is fully inspired by Bjarne Stroustrup's book. I will try to make the code base read like a page of notes with comments places frequently. Each `.cpp` file will contain code that will be useful for reference as it can be syntax-highlighted by the reader's IDE for helpful visualization and understanding.
 
 
 #### Status Updates
