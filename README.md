@@ -2,7 +2,7 @@
 Peyton Cysewski
 
 ## Summary
-This is my walkthrough of the C++ Progamming Language as guided my it's creator, Bjarne Stroustrup, in *The C++ Programming Language, Fourth Edition*. (It will be slightly lagging since it was printed in 2013 and will not refence more recent language updates that should be present in C++20). This is not necessarily meant to be a thorough all-encapsulating guide, but more of a reference with short snippets to remind the reader how things work.<br>
+This is my walkthrough of the C++ Progamming Language as guided my it's creator, Bjarne Stroustrup, in *The C++ Programming Language, Fourth Edition*. (It will be slightly lagging since it was printed in 2013 with the most recent major release being C++ 11 and will not refence more recent language updates that should be present in C++ 20). This is not necessarily meant to be a thorough all-encapsulating guide, but more of a reference with short snippets to remind the reader how things work.<br>
 <br>
 
 ## Guide
